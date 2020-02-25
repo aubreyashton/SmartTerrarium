@@ -1,5 +1,9 @@
 # SmartTerrarium
 
-Author: Aubrey Ashton
+Project Members:
+Aubrey Ashton
+Rosemary Pedregon
+Joseph Shandera
 
-Description: This is a test branch to experiement with the new project Github
+Project Brief Description:
+
